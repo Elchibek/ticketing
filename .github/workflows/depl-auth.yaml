@@ -7,7 +7,7 @@ name: depl-auth
 on:
   push:
     branches:
-      - maste
+      - master
     paths: 
       - 'auth/**'
     
